@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie_Booking</string>
+    <string name="navi_home">Home</string>
+    <string name="navi_history">Order History</string>
+    <string name="navi_logout">Log out</string>
+    <string name="navi_change_password">Change password</string>
+
+    <string name="navi_drawer_open">Open navigation drawer</string>
+    <string name="navi_drawer_close">Close navigation drawer</string>
+
+</resources>

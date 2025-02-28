@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="@string/navi_home"
+            android:icon="@drawable/home"/>
+        <item android:id="@+id/nav_history"
+            android:title="@string/navi_history"
+            android:icon="@drawable/order_history"/>
+        <item android:id="@+id/nav_change_password"
+            android:title="@string/navi_change_password"
+            android:icon="@drawable/baseline_password_24"/>
+        <item android:id="@+id/nav_logout"
+            android:title="@string/navi_logout"
+            android:icon="@drawable/logout"/>
+    </group>
+</menu>
